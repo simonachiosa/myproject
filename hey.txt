@@ -1,1 +1,3 @@
 Implementing feature!!
+
+vim command, add new text.
